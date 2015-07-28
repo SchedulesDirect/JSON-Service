@@ -15,3 +15,5 @@ in the title.
 For feature requests, please use
 
 Feature Request: {whatever}
+
+Documentation for using the service is available in the Wiki.
